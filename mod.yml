@@ -1,6 +1,6 @@
-title: Lost in Phantasm: Angrophobia
+title: 'Lost in Phantasm: Angrophobia'
 originalAuthor: dallin1016
-description: Replaces Fatal Crest with Lost in Phantasm: Angrophobia.
+description: 'Replaces Fatal Crest with Lost in Phantasm: Angrophobia.'
 assets:
 - name: obj/W_EX010_J0.mdlx
   method: copy
